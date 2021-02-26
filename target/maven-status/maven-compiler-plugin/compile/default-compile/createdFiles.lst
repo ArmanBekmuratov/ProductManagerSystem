@@ -1,0 +1,5 @@
+com\example\productmanager\dbutil\DBUtil.class
+com\example\productmanager\dao\ProductManagementDAO.class
+com\example\productmanager\pojo\LoginInfo.class
+com\example\productmanager\pojo\Product.class
+com\example\productmanager\dao\LoginDAO.class
